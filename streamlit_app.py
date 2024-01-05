@@ -1,3 +1,3 @@
 import streamlit
 
-streamlit.title('Hey It's 2024');
+streamlit.title('Hey Its 2024');
